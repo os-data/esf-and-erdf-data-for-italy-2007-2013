@@ -323,7 +323,7 @@
       "hash": "ebb799d43e7599b50a710d275508fe59",
       "mediatype": "text/csv",
       "name": "concat",
-      "path": "https://storage.openspending.org/concat.csv",
+      "path": "https://storage.openspending.org/esf-and-erdf-data-for-italy-2007-2013/concat.csv",
       "schema": {
         "fields": [
           {
