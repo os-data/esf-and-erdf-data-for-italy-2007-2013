@@ -16,6 +16,11 @@
     "nuts_code": "IT",
     "region": "ITALIA"
   },
+  "countryCode": "IT",
+  "fiscalPeriod": {
+    "start": "2007-01-01",
+    "stop": "2013-12-31"
+  },
   "hash": "9859abe5941a3caa4f067c02e72ed2e6",
   "language": "It",
   "model": {
